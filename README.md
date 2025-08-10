@@ -1,7 +1,7 @@
 <!-- Bilal Shweike GitHub Profile README -->
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Bilal+Shweike+👋;Frontend+Developer+%7C+Next.js+%7C+Supabase+%7C+Three.js+;I+Build+Modern+and+Responsive+Web+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Bilal+Shweike+👋;Frontend+Developer+%7C+Next.js+%7C+Supabase;I+Build+Modern+and+Responsive+Web+Apps)](https://git.io/typing-svg)
 
 <!-- Wave Divider -->
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=header)
